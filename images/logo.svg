@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="209" height="54" viewBox="0 0 209 54">
-  <defs>
-    <style>
-      .cls-1 {
+<svg width="209" height="54" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1 {
         fill: #2584ff;
         stroke: #2584ff;
       }
@@ -24,10 +23,12 @@
         fill: #fff;
         font-family: Inter;
         font-weight: 50;
-      }
-    </style>
-  </defs>
-  <path id="Polygon_1_copy_2" data-name="Polygon 1 copy 2" class="cls-1" d="M43.851,29.7L24.244,39.2,32.037,14.02Z"/>
-  <path id="Polygon_1_copy_2-2" data-name="Polygon 1 copy 2" class="cls-2" d="M37.033,29.7L56.64,39.2,48.847,14.02Z"/>
-  <text id="Moshify" class="cls-3" transform="translate(71.466 35.437) scale(0.923)">Vfied</text>
+      }</style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="cls-1" d="m38.29,34.39l-12.96,-16.79l22.67,-0.34l-9.71,17.14z" data-name="Polygon 1 copy 2" id="Polygon_1_copy_2" transform="matrix(1 0 0 1 0 0)"/>
+  <path class="cls-2" d="m31.43,19.54l6.57,7.82l4.99,-10.31l-11.56,2.49z" data-name="Polygon 1 copy 2" id="Polygon_1_copy_2-2"/>
+  <text class="cls-3" id="Moshify" transform="matrix(1 0 0 1 0 0) matrix(0.923 0 0 0.923 71.466 35.437)" x="0" y="-0.54">Vfied</text>
+ </g>
 </svg>
