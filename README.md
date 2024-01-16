@@ -1,6 +1,6 @@
 # Vfied
 Overview
-Welcome to the QuickDeploy Website Project! This project aims to simplify the process of deploying a website on the internet by providing an easy-to-use script that allows you to purchase domains and deploy your site within seconds.
+Welcome to the Vfied Website Project! This project aims to simplify the process of deploying a website on the internet by providing an easy-to-use script that allows you to purchase domains and deploy your site within seconds.
 
 Features 
 
